@@ -1,0 +1,5 @@
+case_id,title,suite,suite_id,assignee,time_spent_ms,status,finish_time,steps,steps_input_data,steps_expected_result,steps_status,steps_comments,comment,stacktrace,priority,severity,automation,type,tags,is_muted,case_parameter
+1,"Adding Sunscreen item to cart","Weather Shopper Main",1,"Suhan N",39929,Passed,"2025-03-29 11:18:30",,,,,,,,High,Critical,"To be automated",Usability,,false,
+2,"Removing items from Cart","Weather Shopper Main",1,"Suhan N",22435,Skipped,"2025-03-29 11:32:33",,,,,,,,High,Blocker,Manual,Other,,false,
+3,"Total Amount","Weather Shopper Main",1,"Suhan N",612000,Failed,"2025-03-29 11:32:10",,,,,,,,High,Blocker,Manual,Other,,false,
+4,"Quantity not displayed","Weather Shopper Main",1,"Suhan N",16537,Passed,"2025-03-29 11:32:45",,,,,,,,High,Major,Manual,Integration,,false,
